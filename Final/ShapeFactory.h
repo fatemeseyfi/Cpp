@@ -13,7 +13,10 @@
 
 class ShapeFactory {
 
+
 public:
+
+    // create shape with parameters
     template<typename... Args>
     static IShape* create(IShape::ShapeType type, Args... args) {
         switch (type)
