@@ -1,0 +1,32 @@
+﻿  Elipse.cpp
+C:\Users\wq\source\repos\Final\Final\ISize.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'Elipse.cpp')
+  
+C:\Users\wq\source\repos\Final\Final\Shape.h(8,30): warning C4584: 'Shape': base-class 'IDrawable' is already a base-class of 'IShape'
+  (compiling source file 'Elipse.cpp')
+  C:\Users\wq\source\repos\Final\Final\IDrawable.h(4,7):
+  see declaration of 'IDrawable'
+  C:\Users\wq\source\repos\Final\Final\IShape.h(4,7):
+  see declaration of 'IShape'
+  
+C:\Users\wq\source\repos\Final\Final\Elipse.h(9,23): warning C4584: 'Elipse': base-class 'IDrawable' is already a base-class of 'Shape'
+  (compiling source file 'Elipse.cpp')
+  C:\Users\wq\source\repos\Final\Final\IDrawable.h(4,7):
+  see declaration of 'IDrawable'
+  C:\Users\wq\source\repos\Final\Final\Shape.h(8,7):
+  see declaration of 'Shape'
+  
+C:\Users\wq\source\repos\Final\Final\Elipse.h(38,1): warning C4250: 'Elipse': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'Elipse.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(58,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(65,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(73,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(74,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(76,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(77,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(116,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Elipse.cpp(123,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Final.vcxproj -> C:\Users\wq\source\repos\Final\x64\Debug\Final.exe

@@ -1,0 +1,118 @@
+﻿  Polygon.cpp
+C:\Users\wq\source\repos\Final\Final\Polygon.h(11,24): warning C4584: 'Polygon': base-class 'IDrawable' is already a base-class of 'Shape'
+  (compiling source file 'Polygon.cpp')
+  C:\Users\wq\source\repos\Final\Final\IDrawable.h(4,7):
+  see declaration of 'IDrawable'
+  C:\Users\wq\source\repos\Final\Final\Shape.h(8,7):
+  see declaration of 'Shape'
+  
+C:\Users\wq\source\repos\Final\Final\Polygon.h(63,1): warning C4250: 'Polygon': inherits 'Shape::Shape::getCenter' via dominance
+  (compiling source file 'Polygon.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(20,24):
+  see declaration of 'Shape::getCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Polygon.h(63,1): warning C4250: 'Polygon': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'Polygon.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(57,14): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(62,88): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(147,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(213,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\wq\source\repos\Final\Final\Polygon.cpp(378,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\wq\source\repos\Final\Final\ISize.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wq\source\repos\Final\Final\Rectangle.h(36,1): warning C4250: 'Rectangle': inherits 'Shape::Shape::getCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(20,24):
+  see declaration of 'Shape::getCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Rectangle.h(36,1): warning C4250: 'Rectangle': inherits 'Shape::Shape::setCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(21,15):
+  see declaration of 'Shape::setCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Rectangle.h(36,1): warning C4250: 'Rectangle': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+C:\Users\wq\source\repos\Final\Final\Square.h(32,1): warning C4250: 'Square': inherits 'Shape::Shape::getCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(20,24):
+  see declaration of 'Shape::getCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Square.h(32,1): warning C4250: 'Square': inherits 'Shape::Shape::setCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(21,15):
+  see declaration of 'Shape::setCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Square.h(32,1): warning C4250: 'Square': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+C:\Users\wq\source\repos\Final\Final\Elipse.h(9,23): warning C4584: 'Elipse': base-class 'IDrawable' is already a base-class of 'Shape'
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\IDrawable.h(4,7):
+  see declaration of 'IDrawable'
+  C:\Users\wq\source\repos\Final\Final\Shape.h(8,7):
+  see declaration of 'Shape'
+  
+C:\Users\wq\source\repos\Final\Final\Elipse.h(38,1): warning C4250: 'Elipse': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+C:\Users\wq\source\repos\Final\Final\Polygon.h(11,24): warning C4584: 'Polygon': base-class 'IDrawable' is already a base-class of 'Shape'
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\IDrawable.h(4,7):
+  see declaration of 'IDrawable'
+  C:\Users\wq\source\repos\Final\Final\Shape.h(8,7):
+  see declaration of 'Shape'
+  
+C:\Users\wq\source\repos\Final\Final\Polygon.h(63,1): warning C4250: 'Polygon': inherits 'Shape::Shape::getCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(20,24):
+  see declaration of 'Shape::getCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Polygon.h(63,1): warning C4250: 'Polygon': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+C:\Users\wq\source\repos\Final\Final\Circle.h(25,1): warning C4250: 'Circle': inherits 'Elipse::Elipse::getCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Elipse.h(32,24):
+  see declaration of 'Elipse::getCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Circle.h(25,1): warning C4250: 'Circle': inherits 'Elipse::Elipse::setCenter' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Elipse.h(33,15):
+  see declaration of 'Elipse::setCenter'
+  
+C:\Users\wq\source\repos\Final\Final\Circle.h(25,1): warning C4250: 'Circle': inherits 'Elipse::Elipse::operator ==' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Elipse.h(31,15):
+  see declaration of 'Elipse::operator =='
+  
+C:\Users\wq\source\repos\Final\Final\Circle.h(25,1): warning C4250: 'Circle': inherits 'Shape::Shape::getType' via dominance
+  (compiling source file 'main.cpp')
+  C:\Users\wq\source\repos\Final\Final\Shape.h(23,20):
+  see declaration of 'Shape::getType'
+  
+  Generating code
+  154 of 371 functions (41.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Final.vcxproj -> C:\Users\wq\source\repos\Final\x64\Release\Final.exe
