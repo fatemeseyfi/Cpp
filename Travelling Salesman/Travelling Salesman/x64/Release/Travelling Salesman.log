@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(41,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(42,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(48,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(49,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(60,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(60,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(60,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Travelling Salesman\Travelling Salesman\Source.cpp(60,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Travelling Salesman.vcxproj -> C:\Users\wq\source\repos\Travelling Salesman\x64\Release\Travelling Salesman.exe
