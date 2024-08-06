@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(33,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(35,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(47,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(49,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(95,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(104,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(127,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(136,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(160,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(167,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(191,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(200,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Laser3.vcxproj -> C:\Users\wq\source\repos\Laser3\x64\Debug\Laser3.exe

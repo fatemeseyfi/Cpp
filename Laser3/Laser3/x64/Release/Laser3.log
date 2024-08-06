@@ -1,0 +1,35 @@
+﻿  Source.cpp
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(33,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(35,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(47,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(49,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(69,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(70,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(96,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(105,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(128,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(137,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(161,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(168,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(192,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(201,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(302,38): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(302,38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(302,61): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(302,61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(306,39): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(306,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(306,63): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\wq\source\repos\Laser3\Laser3\Source.cpp(306,63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 124 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Laser3.vcxproj -> C:\Users\wq\source\repos\Laser3\x64\Release\Laser3.exe
