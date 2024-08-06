@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\wq\source\repos\N_Queen\N_Queen\Source.cpp(120,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wq\source\repos\N_Queen\N_Queen\Source.cpp(121,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  N_Queen.vcxproj -> C:\Users\wq\source\repos\N_Queen\x64\Debug\N_Queen.exe
