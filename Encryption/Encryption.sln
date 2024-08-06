@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encryption", "Encryption\Encryption.vcxproj", "{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Debug|x64.ActiveCfg = Debug|x64
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Debug|x64.Build.0 = Debug|x64
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Debug|x86.Build.0 = Debug|Win32
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Release|x64.ActiveCfg = Release|x64
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Release|x64.Build.0 = Release|x64
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Release|x86.ActiveCfg = Release|Win32
+		{FFD25B0C-A72E-4F25-B8E8-477E8CE05A31}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45815FC3-2544-4DDB-A906-68CBB6A4C53D}
+	EndGlobalSection
+EndGlobal
