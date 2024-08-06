@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\wq\source\repos\Encryption\Encryption\Source.cpp(44,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\wq\source\repos\Encryption\Encryption\Source.cpp(52,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Encryption.vcxproj -> C:\Users\wq\source\repos\Encryption\x64\Debug\Encryption.exe
